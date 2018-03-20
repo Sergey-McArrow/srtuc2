@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srtuc2", "srtuc2\srtuc2.csproj", "{73F741A1-5367-4331-9332-EF68F041E9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F741A1-5367-4331-9332-EF68F041E9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F741A1-5367-4331-9332-EF68F041E9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F741A1-5367-4331-9332-EF68F041E9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F741A1-5367-4331-9332-EF68F041E9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F861E453-CC27-414C-9ABA-4B2982629EB9}
+	EndGlobalSection
+EndGlobal
